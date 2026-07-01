@@ -29,11 +29,15 @@
 
 خیلی ساده این مراحل رو دنبال کن:
 
-1. **کلون کردن مخزن روی سیستم خودت:**  
-   `git clone https://github.com/younes-ghorbany/js-beyond-syntax`
-2. **ورود به پوشه پروژه:**  
-   `cd js-beyond-syntax`
-3. **اجرای کدها با Node.js:**  
+1. **کلون کردن مخزن روی سیستم خودت:**
+
+`git clone https://github.com/younes-ghorbany/js-beyond-syntax`
+
+1. **ورود به پوشه پروژه:**
+
+`cd js-beyond-syntax`
+
+1. **اجرای کدها با Node.js:**  
    مثلاً برای اجرای فایل‌های هر بخش کافیه ترمینال رو باز کنی و بزنی:
 
 `node 03-arrays-objects/immutability.js`
