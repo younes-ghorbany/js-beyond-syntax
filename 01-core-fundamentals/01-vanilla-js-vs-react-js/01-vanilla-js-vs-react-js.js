@@ -2,7 +2,7 @@
 
 /**
  * LESSON: 01 - Vanilla JS vs React JS
- * CHAPTER: Chapter 01 - Essential but Deep Foundations
+ * CHAPTER: 01 - Essential but Deep Foundations
  * Course: JS for React && Next.js: beyond syntax (by Younes Ghorbany)
  */
 
