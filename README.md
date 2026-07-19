@@ -15,7 +15,7 @@
 
 پروژه به بخش‌های مشخصی تقسیم شده که از مفاهیم پایه تا الگوهای پیشرفته در ری‌اکت رو پوشش میده:
 
-- **01-fundamentals/**: مفاهیم پایه، Scope و Hoisting
+- **01-core-fundamentals/**: مفاهیم پایه، Scope و Hoisting
 - **02-functions/**: انواع توابع و Arrow Functions
 - **03-arrays-objects/**: متدهای آرایه و کار با آبجکت‌ها
 - **04-destructuring-ops/**: تخریب ساختار، Spread و Rest
