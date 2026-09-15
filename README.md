@@ -15,12 +15,12 @@
 
 پروژه به بخش‌های مشخصی تقسیم شده که از مفاهیم پایه تا الگوهای پیشرفته در ری‌اکت رو پوشش میده:
 
-- **01-core-fundamentals/**: مفاهیم پایه، Scope و Hoisting
-- **02-functions/**: انواع توابع و Arrow Functions
-- **03-arrays-objects/**: متدهای آرایه و کار با آبجکت‌ها
-- **04-destructuring-ops/**: تخریب ساختار، Spread و Rest
-- **05-async-javascript/**: پرامیس‌ها و Async/Await
-- **06-react-patterns/**: الگوهای پرکاربرد JS در ری‌اکت
+- **01-core-fundamentals/**
+- **02-functions/**
+- **03-arrays/**
+- **04-objects/**
+- **05-destructuring/**
+- **06-es6+/**
 - **و فصل‌های دیگه**
 
 ---
